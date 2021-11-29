@@ -2,14 +2,14 @@
 <a href="https://jofestudio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/current BLog-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 ------------ 
 **What I`m learning..**  
-Javascript  
-React.js  
+*Javascript*  
+*React.js*  
 
 ------------
 **I`m interest in..**  
-Web programming  
-Mobile app prigramming  
-AI  
+*Web programming*  
+*Mobile app prigramming*  
+*AI*  
 
 <!---
 Cho-SangHyun/Cho-SangHyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
