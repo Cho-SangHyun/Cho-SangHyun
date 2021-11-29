@@ -1,14 +1,14 @@
 <a href="https://blog.naver.com/98shcho" target="_blank"><img src="https://img.shields.io/badge/previous Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://jofestudio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/current BLog-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 ------------ 
-**What I`m learning..**  
+📖 **What I`m learning..**  
 *Javascript*  
 *React.js*  
 
 ------------
-**I`m interest in..**  
+🤔 **I`m interest in..**  
 *Web programming*  
-*Mobile app prigramming*  
+*Mobile app programming*  
 *AI*  
 
 <!---
