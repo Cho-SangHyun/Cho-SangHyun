@@ -7,8 +7,7 @@
 
 
  ## 🤔 I`m interest in..  
-*Web programming*  
-*Mobile app programming*  
+*Web programming*    
 *AI*  
 
 <!---
