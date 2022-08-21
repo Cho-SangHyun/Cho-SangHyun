@@ -3,12 +3,14 @@
 ------------ 
  ## 📖 What I`m learning..  
 *Javascript*  
+*Java*  
 *React.js*  
+*BlockChain*  
 
 
  ## 🤔 I`m interest in..  
 *Web programming*    
-*AI*  
+*BlockChain*  
 
 <!---
 Cho-SangHyun/Cho-SangHyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
