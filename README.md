@@ -5,7 +5,6 @@
 *Javascript*  
 *Java*  
 *React.js*  
-*BlockChain*  
 
 
  ## 🤔 I`m interest in..  
