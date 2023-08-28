@@ -2,16 +2,16 @@
 <a href="https://jofestudio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/current BLog-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 ------------ 
  ## 📖 What I`m learning..  
-*Javascript*  
-*Java*  
-*React.js*  
-*Spring Boot*  
+*Dart & Flutter*  
+*Java & Spring boot*    
+*Redis*  
+*AWS*  
 
 
  ## 🤔 I`m interest in..  
-*Web programming*    
-*BlockChain*  
-*Clean Code*  
+*Server side*    
+*Secure Coding*  
+*Linux*
 <!---
 Cho-SangHyun/Cho-SangHyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
