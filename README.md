@@ -1,5 +1,5 @@
 # Hi there, it`s Cho SangHyun here 👋  
-I think the developer is a person who has the power to use a tool called coding to create what they want at any time. As a software developer, I want to be a person who can solve problems I encounter in my life through a tool called coding, and furthermore, help others with a tool called coding. 
+I`m junior backend developer who enjoys newness.
 
 
 ## Until now, I`m ...
@@ -10,9 +10,7 @@ I think the developer is a person who has the power to use a tool called coding 
 
 
 ## I`m currently ...
-- studying server-side technologies especially SpringBoot, Redis...
-- studying cloud services provided by aws.
-- interested in Linux, so I'm applying for and taking Linux related classes at university even though I've already filled all my grades.
+- studying Java, Spring Boot, MySQL, MongoDB, HTTP...
 
 
 ## Here are my ...
