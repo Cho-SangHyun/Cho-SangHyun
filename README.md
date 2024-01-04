@@ -15,7 +15,6 @@ I`m junior backend developer who enjoys newness.
 
 ## Here are my ...
 - [blog](https://jofestudio.tistory.com/) I'm using now
-- [blog](https://blog.naver.com/98shcho) I used to use
 - [youtube](https://www.youtube.com/@jofestudio1835) to upload coding related videos or vlogs.. 🤭
 
 
