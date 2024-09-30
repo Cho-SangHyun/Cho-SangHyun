@@ -1,16 +1,10 @@
-# Hi there, it`s Cho SangHyun here 👋  
-I`m junior backend developer who enjoys newness.
-
-
-## Until now, I`m ...
-- After encountering web development in [LIKELION](https://www.likelion.net/), I studied front-end development with ReactJS.
-- Then, after conducting a [LevelDB study](https://github.com/Cho-SangHyun/leveldb-study) with embedded lab on campus with the idea of encountering other fields, more interest was gained in the backend field by analyzing what is happening behind users at the source code level and measuring their performance.
-- So I started learning java by joining the [woowacourse-precourse](https://www.woowacourse.io/), and this led me to step into the backend.
-- Now, I've decided on my career as a backend while working on a team project in [Software Maestro](https://www.swmaestro.org/sw/main/main.do).
+# Hi there 👋  
+I`m Cho Sanghyun who want to be engineer, not just an developer
 
 
 ## I`m currently ...
-- studying Java, Spring Boot, MySQL, MongoDB, HTTP...
+- Studying parallel programming in Java and I'm especially interested in Virtual Thread
+- [video](https://youtu.be/pt7cNy7KlpE) >> This is a video presentation about Virtual Thread at an in-house technology seminar
 
 
 ## Here are my ...
