@@ -1,5 +1,5 @@
 # Hi there 👋  
-I`m Cho Sanghyun who want to be engineer, not just an developer
+I`m Cho Sanghyun who want to be an engineer, not just a developer
 
 
 ## I`m currently ...
