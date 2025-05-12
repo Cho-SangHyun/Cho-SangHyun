@@ -1,16 +1,20 @@
-# Hi there 👋  
-I`m Cho Sanghyun who want to be an engineer, not just a developer
+# Hi there 👋
+## I'm SangHyun Cho
+As a software developer, I started my career Since 2024, working in financial industry. I always try to think of "nevertheless" rather than "I can't help it," and i try to melt my expertise to solve problems by designing and developing systems, even considering unexpected errors.  
+<br>  
 
+In addition, I am confident in communicating technical problems by solving them in human language. Through years of development blogging and presentation experience in two in-house academic clubs, I have the ability to easily convey complex technical content.  
 
-## I`m currently ...
-- Studying parallel programming in Java and I'm especially interested in Virtual Thread
-- [video](https://youtu.be/pt7cNy7KlpE) >> This is a video presentation about Virtual Thread at an in-house technology seminar
+<br>  
 
+## I'm currently..
+- 💻 maintaining the in-house system in financial industry
+- 📝 writing blog posts in Korean at https://jofestudio.tistory.com
+<br>
 
-## Here are my ...
-- [blog](https://jofestudio.tistory.com/) I'm using now
-- [youtube](https://www.youtube.com/@jofestudio1835) to upload coding related videos or vlogs.. 🤭
-
+## Recent blog posts (KO)
+- [Kafka를 활용해서 예약이체 서비스 설계해보기](https://jofestudio.tistory.com/146)
+- [한계를 뛰어넘는 자바의 마법, Virtual Thread 뜯어보기](https://jofestudio.tistory.com/139)
 
 <br/>  
 
