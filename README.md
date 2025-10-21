@@ -13,6 +13,7 @@ In addition, I am confident in communicating technical problems by solving them 
 <br>
 
 ## Recent blog posts (KO)
+- [DB 트리거(Trigger) 살펴보고 고민해보기](https://jofestudio.tistory.com/150)
 - [어설프게 알면 당신도 낚인다. MySQL REPEATABLE_READ의 함정](https://jofestudio.tistory.com/148)
 - [Kafka를 활용해서 예약이체 서비스 설계해보기](https://jofestudio.tistory.com/146)
 - [한계를 뛰어넘는 자바의 마법, Virtual Thread 뜯어보기](https://jofestudio.tistory.com/139)
