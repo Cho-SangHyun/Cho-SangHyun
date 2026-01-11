@@ -13,6 +13,7 @@ In addition, I am confident in communicating technical problems by solving them 
 <br>
 
 ## Recent blog posts (KO)
+- [MyBatis, JPA 없이 JDBC로만 DB를 다루는 세상이었다면](https://jofestudio.tistory.com/153)
 - [[회고] 트랜잭션 아웃박스 패턴, 과연 정답이었을까?](https://jofestudio.tistory.com/152)
 - [DB 트리거(Trigger) 살펴보고 고민해보기](https://jofestudio.tistory.com/150)
 - [어설프게 알면 당신도 낚인다. MySQL REPEATABLE_READ의 함정](https://jofestudio.tistory.com/148)
@@ -21,5 +22,4 @@ In addition, I am confident in communicating technical problems by solving them 
 
 <br/>  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-SangHyun&show_icons=true&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=98shcho)](https://solved.ac/98shcho/)
