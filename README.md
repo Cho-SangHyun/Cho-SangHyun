@@ -12,8 +12,9 @@ In addition, I am confident in communicating technical problems by solving them 
 - 📝 writing blog posts in Korean at https://jofestudio.tistory.com
 <br>
 
-## Recent blog posts (KO)
-- [MyBatis, JPA 없이 JDBC로만 DB를 다루는 세상이었다면](https://jofestudio.tistory.com/153)
+## Recent blog posts (KO) 
+- [[JDBC] (2편) JDBC 기반으로 직접 트랜잭션을 처리해보고, JDBC 스펙에서의 커넥션풀 알아보기](https://jofestudio.tistory.com/154)
+- [[JDBC] (1편) MyBatis, JPA 없이 JDBC로만 DB를 다루는 세상이었다면](https://jofestudio.tistory.com/153)
 - [[회고] 트랜잭션 아웃박스 패턴, 과연 정답이었을까?](https://jofestudio.tistory.com/152)
 - [DB 트리거(Trigger) 살펴보고 고민해보기](https://jofestudio.tistory.com/150)
 - [어설프게 알면 당신도 낚인다. MySQL REPEATABLE_READ의 함정](https://jofestudio.tistory.com/148)
