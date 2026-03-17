@@ -13,6 +13,7 @@ In addition, I am confident in communicating technical problems by solving them 
 <br>
 
 ## Recent blog posts (KO) 
+- [[MyBatis] (1편) MyBatis는 무엇을 해결해주는가? - MyBatis의 구성 요소와 동작 원리](https://jofestudio.tistory.com/155)
 - [[JDBC] (2편) JDBC 기반으로 직접 트랜잭션을 처리해보고, JDBC 스펙에서의 커넥션풀 알아보기](https://jofestudio.tistory.com/154)
 - [[JDBC] (1편) MyBatis, JPA 없이 JDBC로만 DB를 다루는 세상이었다면](https://jofestudio.tistory.com/153)
 - [[회고] 트랜잭션 아웃박스 패턴, 과연 정답이었을까?](https://jofestudio.tistory.com/152)
