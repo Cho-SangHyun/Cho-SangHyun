@@ -1,14 +1,14 @@
 # Hi there 👋
 ## I'm SangHyun Cho
-As a software developer, I started my career Since 2024, working in financial industry. I always try to think of "nevertheless" rather than "I can't help it," and i try to melt my expertise to solve problems by designing and developing systems, even considering unexpected errors.  
+As a software developer, I started my career Since 2024, working in financial domain. I always try to think of "nevertheless" rather than "I can't help it," and i try to melt my expertise to solve problems by designing and developing systems, even considering unexpected errors.  
 <br>  
 
-In addition, I am confident in communicating technical problems by solving them in human language. Through years of development blogging and presentation experience in two in-house academic clubs, I have the ability to easily convey complex technical content.  
+In addition, I am skilled at bridging the gap between technical complexity and business requirements. Through years of technical blogging and presenting, I have developed the ability to communicate complex concepts clearly to cross-functional teams and non-technical stakeholders.
 
 <br>  
 
 ## I'm currently..
-- 💻 maintaining the in-house system in financial industry
+- 💻 Building and maintaining high-integrity internal systems for the financial domain, with a focus on data integrity and operational stability.
 - 📝 writing blog posts in Korean at https://jofestudio.tistory.com
 <br>
 
