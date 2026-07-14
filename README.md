@@ -1,18 +1,23 @@
 # Hi there 👋
-## I'm SangHyun Cho
-As a software developer, I started my career Since 2024, working in financial domain. I always try to think of "nevertheless" rather than "I can't help it," and i try to melt my expertise to solve problems by designing and developing systems, even considering unexpected errors.  
-<br>  
+## 💻 About Me
+As a backend developer with about 2 years of experience in the financial domain, I focus on defining and solving systemic challenges rather than just writing functional code. 
 
-In addition, I am skilled at bridging the gap between technical complexity and business requirements. Through years of technical blogging and presenting, I have developed the ability to communicate complex concepts clearly to cross-functional teams and non-technical stakeholders.
+- **Engineering Efficiency:** Successfully automated high-volume manual data extraction workflows by implementing Spring Batch, significantly improving operational reliability.
+- **Productivity & Reusability:** Streamlined repetitive financial messaging formats by designing and publishing an open-source library, accelerating overall development velocity.
+- **Pragmatic Architecture:** I believe in keeping systems robust yet simple—bravely stripping away redundant layers or patterns if they no longer serve a practical purpose.
+- **Continuous Growth:** I strive to understand the "why" behind every technology choice. I enjoy diving into unfamiliar technical domains, and sharing my findings through corporate tech talks and personal blog posts to foster growth alongside my peers.
 
 <br>  
 
 ## I'm currently..
 - 💻 Building and maintaining high-integrity internal systems for the financial domain, with a focus on data integrity and operational stability.
+- 🤖 **Developing custom tools and integrations optimized for AI agents** to automate workflows and enhance developer productivity.  
 - 📝 writing blog posts in Korean at https://jofestudio.tistory.com
-<br>
+<br>  
 
 ## Recent blog posts (KO) 
+- [[결제 개발기] (1) PG는 실제 결제를 어떻게 다룰까? 인증결제 흐름 직접 설계하기](https://jofestudio.tistory.com/157)
+- [tmux가 어떤 도구인지 빠르고 쉽게 훑어보기](https://jofestudio.tistory.com/156)
 - [[MyBatis] (1편) MyBatis는 무엇을 해결해주는가? - MyBatis의 구성 요소와 동작 원리](https://jofestudio.tistory.com/155)
 - [[JDBC] (2편) JDBC 기반으로 직접 트랜잭션을 처리해보고, JDBC 스펙에서의 커넥션풀 알아보기](https://jofestudio.tistory.com/154)
 - [[JDBC] (1편) MyBatis, JPA 없이 JDBC로만 DB를 다루는 세상이었다면](https://jofestudio.tistory.com/153)
